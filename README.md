@@ -5,13 +5,14 @@
   The Retail Business Intelligence Dashboard is designed to provide actionable insights into retail operations by leveraging data visualization and analytics. It consolidates sales,customer, and regional performance data into an interactive dashboard, enabling stakeholders to make informed decisions quickly and effectively
 
 * Getting Started & Dependencies
-Install Microsoft Excel (2021 or later) or Power BI Desktop.
+  
+   - Install Microsoft Excel (2021 or later) or Power BI Desktop.
 Basic knowledge of Pivot Tables and Power Query is helpful.
 Windows 10/11 .
 
 * Installing
 
- git clone https://github.com/mailtothasneem/Retail-Business-Intelligence-Dashboard-Capstone-Project.git
+  -git clone https://github.com/mailtothasneem/Retail-Business-Intelligence-Dashboard-Capstone-Project.git
 Or download the ZIP file from GitHub and extract it locally.
 Ensure the sample retail dataset is placed in the correct folder (included in the repository).
 No additional modifications are required to files/folders — simply open the .xlsx (Excel) 
